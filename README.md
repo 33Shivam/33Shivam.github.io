@@ -9,6 +9,7 @@ while I have free time. This is great way to learn CSS and HTML.
 - The fonts library used is taken from [FontAwesome] (https://fontawesome.com) .
 - The Video on landing page is taken from [PixaBay] (https://pixabay.com/videos/) .
 - The javascript and CSS dependencies has been taken from [GLightBox] (https://biati-digital.github.io/glightbox/) .
+- Lastly I got free domain using my student ID from [NameCheap] (https://www.namecheap.com/)
 
 
 
