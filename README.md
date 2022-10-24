@@ -1,6 +1,6 @@
 # What is this Repository about?
 The website is built and developed using the CSS and HTML.
-Do vist (anandshivam.me)
+Do visit [Protfolio Website](anandshivam.me)
 
 World where everything is taken into face value , I thought why not make one protfolio website
 while I have free time. This is great way to learn CSS and HTML. 
